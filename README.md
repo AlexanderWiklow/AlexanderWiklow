@@ -12,3 +12,5 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
+
+![dotnet](https://user-images.githubusercontent.com/17318759/186962119-1c06a2f5-6d0d-4053-b175-c52ef1081527.svg)
