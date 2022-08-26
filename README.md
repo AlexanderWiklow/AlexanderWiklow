@@ -28,3 +28,6 @@
 <a href="https://www.w3schools.com"> <img src="https://user-images.githubusercontent.com/17318759/186964560-0ca8f427-317d-4520-9107-6a6979e46df5.svg" width="40" height="40"/></a>
 
 <a href="https://www.w3schools.com"> <img src="https://user-images.githubusercontent.com/17318759/186964532-ca2d9849-45dd-46d9-9587-4e0f89a0e849.svg" width="40" height="40"/></a>
+
+<img src="https://img.shields.io/badge/Gmail-00AFF0?style=for-the-badge&logo=gmail&logoColor=white" />
+
