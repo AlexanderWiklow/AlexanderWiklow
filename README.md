@@ -3,11 +3,16 @@
 - 🔭 I’m currently working on my portfolio website!
 - 🌱 I’m currently a student studying to become a full stack web developer. 
 - 👯 I’m looking to collaborate on anything!
+- 
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+currently 
+in the past i have been studying and building pages and apps with these technologies: 
+
 
 
 
@@ -46,6 +51,7 @@
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
  
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
+ 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 
 
