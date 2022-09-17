@@ -1,3 +1,5 @@
+<img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Water%20(1).png" />
+
 ### Hi there 👋
 <h2> - 🔭 I’m currently working on my portfolio website! <br>
 - 🌱 I’m currently a student studying to become a full stack web developer: </h2>
