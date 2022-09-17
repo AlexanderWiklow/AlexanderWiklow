@@ -1,4 +1,4 @@
-<img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Water%20(1).png" />
+<!-- <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Water%20(1).png" /> -->
 
 ### Hi there 👋
 <h2> - 🔭 I’m currently working on my portfolio website! <br>
