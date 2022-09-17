@@ -1,4 +1,66 @@
-<!-- <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Water%20(1).png" /> -->
+
+  
+### Hi there, I'm Alexander! 👋
+### I'm a webdeveloper fullstack open source student!  
+  
+
+- 🔭 I’m currently studying [Web developer fullstack open source](https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/)  
+  
+
+- 🌱 I’m currently learning JavaScript and working on my portfolio  
+  
+
+<br/>  
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexanderwiklow&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=alexanderwiklow&show_icons=true&theme=radical)
+
+
+## My Skill Set  
+<!-- <table><tr><td valign="top" width="33%"> -->
+
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
+</div>
+
+<!--
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%"> 
+</td></tr></table>   -->
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/AlexanderWiklow" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/awiklöw" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+
+
+
+
+<!-- <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Water%20(1).png" />
 
 ### Hi there 👋
 <h2> - 🔭 I’m currently working on my portfolio website! <br>
@@ -38,7 +100,7 @@ Web developer full stack open source gives you a broad programming competence in
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 
 
-<!-- - 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with 
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -122,6 +184,12 @@ currently
 
 
 <img src="" />  -->
+
+
+
+
+
+
 
 
 
