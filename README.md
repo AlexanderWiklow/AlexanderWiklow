@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2> - 🔭 I’m currently working on my portfolio website! <br>
-- 🌱 I’m currently a student studying to become a full stack web developer. 2 year long program: </h2>
+- 🌱 I’m currently a student studying to become a full stack web developer: </h2>
 
 
 
