@@ -1,7 +1,7 @@
 
-  
-### Hi there, I'm Alexander! 👋
-### I'm a webdeveloper fullstack open source student!  
+  <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Your%20paragraph%20text.png" height="500px" align="center">
+
+I'm a web developer fullstack open source student!  
   
 
 - 🔭 I’m currently studying [Web developer fullstack open source](https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/)  
@@ -12,8 +12,8 @@
 
 <br/>  
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexanderwiklow&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=alexanderwiklow&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexanderwiklow&show_icons=true&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=alexanderwiklow&show_icons=true&theme=gruvbox)
 
 
 ## My Skill Set  
