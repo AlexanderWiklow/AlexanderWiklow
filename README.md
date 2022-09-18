@@ -1,5 +1,6 @@
 
-  <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Your%20paragraph%20text.png" height="500px" align="center">
+  
+  <img src="https://github.com/AlexanderWiklow/AlexanderWiklow/blob/main/Your%20paragraph%20text.png" align="center">
 
 I'm a web developer fullstack open source student!  
   
