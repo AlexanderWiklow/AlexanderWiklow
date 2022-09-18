@@ -17,7 +17,7 @@ I'm a web developer fullstack open source student!
 ![github stats](https://github-readme-stats.vercel.app/api?username=alexanderwiklow&show_icons=true&theme=gruvbox)
 
 
-## My Skill Set  
+## Tech I've used before
 <!-- <table><tr><td valign="top" width="33%"> -->
 
 <div align="center">  
