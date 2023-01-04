@@ -48,8 +48,8 @@ I'm a web developer fullstack open source student!
 
 
 ## Connect with me  
-<!-- <div align="center">
-<a href="https://github.com/AlexanderWiklow" target="_blank">
+ <div align="center">
+<!--<a href="https://github.com/AlexanderWiklow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> -->
 <a href="https://linkedin.com/in/www.linkedin.com/in/awiklöw" target="_blank">
